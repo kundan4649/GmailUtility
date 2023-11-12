@@ -1,0 +1,22 @@
+#Untracked Files
+*.suo
+bin/
+csx/
+obj/
+bin/
+*LogsAPI/
+*PublishProfiles/
+Assets/KioskLocations/
+Assets/Merchant/
+Assets/Products/
+.sonarqube/
+*.user
+*.vs10x
+*.Publish.xml
+*.SourceManifest.xml
+*.vbproj.vs10x
+*.shfbproj_*
+*.v2
+src/sonarqubecoverage/
+.vs/
+
